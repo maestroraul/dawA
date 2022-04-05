@@ -15,8 +15,8 @@ public class HolaMundo2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Mundo2 de GitHub 1");
-        System.out.println("Hola Mundo2 de GitHub 2");
+        System.out.println("Hola Mundo2 de GitHub desde Netbeans");
+        
     }
     
 }
