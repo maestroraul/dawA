@@ -13,6 +13,6 @@ public class HolaMundo4 {
 
     public static void main(String[] args) {
         System.out.println("Hola Mundo 4 daw A");
-        ut.println("Hola Mundo 4 daw A v2");
+        System.out.println("Hola Mundo 4 daw A v2");
     }
 }
